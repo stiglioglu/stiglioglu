@@ -27,6 +27,13 @@
         </div>
     </foreignObject>
 </svg>
+# My GitHub README
+
+Welcome to my README!
+
+<div align="center">
+    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+</div>
 <h3 align="left">Programming Languages</h3>
 <div align="lef">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
